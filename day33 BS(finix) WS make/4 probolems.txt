@@ -1,5 +1,0 @@
-Some of my problems making https://nomadcapitalist.com/ this website...
-
-1. fullwidth image zoom very high.
-2. line didn't go through image.
-3. Triangle arrow didn't place correctly on last two image.
